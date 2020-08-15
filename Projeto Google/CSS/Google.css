@@ -1,0 +1,102 @@
+.Topo{
+    text-align: right;
+    padding: 15px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;  
+}
+.ImagemPerfil{
+    width: 35px;
+    height: 35px;
+}
+.GoogleLogo{
+    text-align: center;
+}
+.LOGO{
+    padding-top: 109px;
+}
+.bar{
+    margin:0 auto;
+    width:575px;
+    border-radius:30px;
+    border:1px solid #DCDCDC;
+    margin-top: 25px;
+}
+.bar:hover{
+    box-shadow: 1px 1px 8px 1px #DCDCDC;
+ }
+ .bar:focus-within {
+    box-shadow: 1px 1px 8px 1px #DCDCDC;
+    outline:none;
+ }
+ .searchbar {
+    height:45px;
+    border:1px;
+    width:500px;
+    font-size:16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    outline: 1px;
+    border-radius:30px; ;
+}
+.voice {
+    width: 15px;
+    height:20px;
+    position:relative;
+    top:-2px;
+    left:35px;
+}
+.buttons{
+    text-align: center;
+    margin-top: 4px;
+}
+.button{
+    background-color: #f5f5f5;
+    border:none;
+    color: #707070;
+    font-size: 14px;
+    padding: 10px 20px;
+    margin: 5px;
+    outline: none;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button:hover{
+    border: 1px solid #c8c8c8;
+    padding: 9px 19px;
+    color: #808080;
+
+}
+.Footer1{
+    color: #5F6368;
+    border-top: 1px solid grey ;
+    margin-top: 13.5%;
+    color: grey ;
+    display: flex;
+    background-color: rgb(233, 232, 232);
+}
+.Footer2 {
+    border-top: 1px solid grey ;
+    display: flex;
+    background-color: rgb(233, 232, 232);
+    height: 40px; 
+}
+.left {
+    margin-right: 15px;
+    margin-left: 15px;
+    color: #5F6368;
+}
+.righttxt {
+    margin-right: 15px;
+    margin-left: 15px;
+    color: #5F6368;
+    text-align: right;
+}
+.right {
+    margin-left: 37%;
+}
+.disponivel{
+    text-align: center;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;   
+}
